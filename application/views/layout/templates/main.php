@@ -11,7 +11,7 @@ $useCookie = BRequest::getVarCookie('useCookie', 0);
     <?php Declaration::addStyle('main'); ?>
     <?php Declaration::addScript('main'); ?>
     <?php echo \core\mvc\View::getView('/layout/templates/general/head'); ?>
-
+    <title><?=$this->title?></title>
     <script type="text/javascript">
         var languages_consts = <?php echo json_encode(Lang::getTranslationLines()); ?>;
     </script>

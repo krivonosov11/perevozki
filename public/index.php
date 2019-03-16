@@ -31,7 +31,6 @@ error_reporting(\Config::$errorReporting);
 require_once CORE . DS . 'BRequest.php';
 require_once CORE . DS . 'Declaration.php';
 require_once CORE . DS . 'Debug.php';
-require_once CORE . DS . 'ConnectDB.php';
 require_once CORE . DS . 'sessions' . DS . 'Session.php';
 require_once CORE . DS . 'Lang.php';
 if ($query == 'google33ff467dbf041ffd.html') {

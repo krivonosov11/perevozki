@@ -1,7 +1,7 @@
 <?php
 // Password setting
 // site info
-define('SITE_URL', 'http://starover.com.ua');
+define('SITE_URL', 'https://cragos-trans.com');
 // directories
 define('DS', DIRECTORY_SEPARATOR);
 define('ROOT', dirname(__DIR__));

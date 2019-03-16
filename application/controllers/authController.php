@@ -9,7 +9,27 @@
 namespace application\controllers;
 
 
-class authController
-{
+use core\mvc\Controller;
 
+class authController extends Controller
+{
+    public function __construct($route)
+    {
+        parent::__construct($route);
+    }
+
+    public function index()
+    {
+
+    }
+
+    public function login()
+    {
+
+    }
+
+    public function registration()
+    {
+
+    }
 }

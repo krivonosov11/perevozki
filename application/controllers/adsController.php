@@ -9,7 +9,28 @@
 namespace application\controllers;
 
 
-class adsController
+use core\mvc\Controller;
+
+class adsController extends Controller
 {
+    public function __construct($route)
+    {
+        parent::__construct($route);
+    }
+
+    public function index()
+    {
+
+    }
+
+    public function newAd()
+    {
+
+    }
+
+    public function addNew()
+    {
+
+    }
 
 }

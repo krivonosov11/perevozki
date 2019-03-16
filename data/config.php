@@ -5,7 +5,7 @@ class Config
 
     // config local DateBase
      public static $host = '127.0.0.1';
-     public static $dbname = 'gt_db';
+     public static $dbname = 'ct_db';
      public static $user = 'root';
      public static $password = '';
 
@@ -16,10 +16,10 @@ class Config
 //   public static $password = 'e7pU2HfZ';
 
     // config local site
-     public static $url = 'http://local.cargo-trance';
+     public static $url = 'http://local.cargos-trans';
 
     // config production site
-//   public static $url = 'https://cargo-trance.com';
+//   public static $url = 'https://cargos-trans.com';
 
     public static $debugQueriesDB = false;
     public static $errorReporting = -1;

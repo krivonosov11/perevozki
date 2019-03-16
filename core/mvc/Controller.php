@@ -19,7 +19,7 @@ abstract class Controller
     public $layout = 'main';
     public $vars = [];
     public $ajax_method = false;
-    public $title = 'Scantrigger';
+    public $title = 'Грузовые перевозки';
     private $model_name;
 
     /**
@@ -42,7 +42,7 @@ abstract class Controller
         $this->route_action = mb_strtolower($this->route["action"]);
     }
 
-    public  function getView()
+    public function getView()
     {
         if (!$this->ajax_method) {
             $vObj = new View($this->route, $this->layout, $this->view, $this->title);
