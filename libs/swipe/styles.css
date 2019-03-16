@@ -1,0 +1,30 @@
+
+#MainContent h1 { font-size: 1.3em; padding: 15px 10px; margin: 0; }
+#MainContent h2 { font-size: 1.1em; padding: 10px; margin: 0; }
+#MainContent img { border: none; }
+#MainContent a { color: #444340; }
+
+#MainContent #Header { background: #EEBF02; height: 61px; padding: 0; border-bottom: 1px solid #3c3c3c;  }
+#MainContent #Header img { display: block; margin: 0 auto 0; }
+
+#MainContent { background: #ffffff; padding-bottom: 30px; }
+
+#MainContent #Footer { padding: 10px; border-top: none; } 
+
+#MainContent #SocialLinks { padding: 10px 0 0 0; }
+#MainContent #SocialLinks:after { clear: both; content: "."; display: block; height: 0; visibility: hidden; }
+#MainContent #SocialLinks a { display: block; float: left; padding-right: 15px; }
+
+#MainContent .gallery { list-style: none; padding: 0; margin: 0; }
+#MainContent .gallery:after { clear: both; content: "."; display: block; height: 0; visibility: hidden; }
+#MainContent .gallery li { float: left; width: 33.33333333%; }
+#MainContent .gallery li a { display: block; margin: 5px; border: 1px solid #3c3c3c; }
+#MainContent .gallery li img { display: block; width: 100%; height: auto; }
+
+
+/* For inline examples only */
+#MainContent #PhotoSwipeTarget { width: 100%; height: 200px; }
+
+#MainContent #Indicators { text-align: center; margin-top: 20px; }
+#MainContent #Indicators span { display: inline-block; height: 10px; width: 10px; margin: 0 10px 0 0; padding: 0; -webkit-border-radius:5px; -moz-border-radius:5px; -o-border-radius:5px; border-radius:5px; background: #c5c5c5; overflow:hidden; }
+#MainContent #Indicators span.current{ background: #EEBF02; }

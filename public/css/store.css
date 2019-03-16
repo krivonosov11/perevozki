@@ -1,0 +1,50 @@
+.add_product_window {
+    width: auto;
+    padding: 10px;
+    background: white;
+    border: 1px solid #6c390c;
+    border-radius: 5px;
+}
+
+.add_product_window input, .add_product_window textarea, .add_product_window select {
+    display: block;
+    width: 75%;
+    margin: 12px auto;
+    padding: 5px 10px;
+    font-size: 1.25em;
+    border: 1px solid rgba(108, 57, 12, 0.65);
+    border-radius: 4px;
+    -ms-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
+}
+
+.add_product_window .images {
+    text-align: center;
+}
+
+.add_product_window .images img {
+    width: 125px;
+    height: 125px;
+}
+
+.add_product_window .images .image_info {
+    display: inline-block;
+    cursor: pointer;
+    width: 30%;
+    transition: 0.3s;
+}
+.add_product_window .images span{
+    font-size: 1.2em;
+    margin: 10px;
+    display: block;
+}
+.add_product_window .images .image_info:hover {
+    transform: scale(1.05, 1.05);
+    opacity: 0.8;
+}
+
+.add_product_window .images .image_info input[type=file] {
+    display: none;
+}

@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8ffd185-b71e-47cf-bba6-01b7b86230ee" name="Default Changelist" comment="Pravki">
+      <change afterPath="$PROJECT_DIR$/application/views/all/forumitem.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/views/store/addproduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/store.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/controllers/allController.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/controllers/allController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/controllers/mainController.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/controllers/mainController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/controllers/newsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/controllers/newsController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/controllers/storeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/controllers/storeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/models/All.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/models/All.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/models/News.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/models/News.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/all/forum.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/all/forum.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/main/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/main/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/news/archdiocese.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/news/archdiocese.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/news/culture.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/news/culture.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/news/events.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/news/events.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/news/parishes.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/news/parishes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/store/brain.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/store/brain.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/store/candles.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/store/candles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/store/clothes.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/store/clothes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/store/incense.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/store/incense.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/store/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/store/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/store/literature.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/store/literature.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/store/lithium.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/store/lithium.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/store/setrites.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/store/setrites.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/store/trainers.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/store/trainers.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/store/vestments.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/store/vestments.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/sessions/files/sess_3jc0d71k5p79nag4tr1is0eliirhn5qr" beforeDir="false" afterPath="$PROJECT_DIR$/core/sessions/files/sess_3jc0d71k5p79nag4tr1is0eliirhn5qr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/data/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/languages/ru.php" beforeDir="false" afterPath="$PROJECT_DIR$/data/languages/ru.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/header_menu/view/main/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/modules/header_menu/view/main/view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/news_one.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/news_one.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="my_staroobr@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="my_staroobr@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="my_staroobr@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="my_staroobr: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/store/lithium.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="38" column="26" lean-forward="true" selection-start-line="36" selection-start-column="15" selection-end-line="38" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/storeController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="444">
+              <caret line="62" column="10" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/store/addproduct.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="93" column="76" selection-start-line="93" selection-start-column="76" selection-end-line="93" selection-end-column="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/js/store.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/css/store.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>previewFileDoc</find>
+      <find>pub</find>
+      <find>WWW</find>
+      <find>documents</find>
+      <find>getAllDocumentByGroup</find>
+      <find>getAllDocumentByType</find>
+      <find>COMMU</find>
+      <find>counc</find>
+      <find>INTERVI</find>
+      <find>performan</find>
+      <find>COMMUNITY_DOCUMENTS</find>
+      <find>document</find>
+      <find>WRITER_OF_STAROOBR</find>
+      <find>previewFile</find>
+      <find>Общее</find>
+      <find>NOV</find>
+      <find>container</find>
+      <find>$news</find>
+      <find>$par</find>
+      <find>.send_comment</find>
+      <find>senCommentByid</find>
+      <find>getCommnetsByIdNews</find>
+      <find>&gt;&lt;p&gt;</find>
+      <find>&lt;p&gt;</find>
+      <find>&lt;/p&gt;</find>
+      <find>$j = \BRequest::getInt('list', 1);</find>
+      <find>archdiocese</find>
+      <find>culture</find>
+      <find>events</find>
+      <find>&lt;input type=&quot;file&quot;&gt;</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>div</replace>
+      <replace>\Config::$v_cache_styles_and_js</replace>
+      <replace>main</replace>
+      <replace>font</replace>
+      <replace>font/irmologiy</replace>
+      <replace>documents</replace>
+      <replace>.add_post</replace>
+      <replace>гривневые</replace>
+      <replace>Украина</replace>
+      <replace>Украины</replace>
+      <replace>Винница</replace>
+      <replace>Виннице</replace>
+      <replace>Архиепископ</replace>
+      <replace>$js = 'var block = &quot;' . $this-&gt;route['action'].'&quot;';</replace>
+      <replace>document</replace>
+      <replace>getAllDocumentByGroup</replace>
+      <replace>AUTHOR_PAGE</replace>
+      <replace>books</replace>
+      <replace>$alms</replace>
+      <replace>$thems</replace>
+      <replace>$j = $this-&gt;j</replace>
+      <replace>culture</replace>
+      <replace>events</replace>
+      <replace>parishes</replace>
+      <replace>&lt;input type=&quot;file&quot; name=&quot;photos[]&quot; multiple&gt;</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/application/views/document/councils.php" />
+        <option value="$PROJECT_DIR$/application/views/document/performances.php" />
+        <option value="$PROJECT_DIR$/application/views/document/interview.php" />
+        <option value="$PROJECT_DIR$/application/views/document/resolutions.php" />
+        <option value="$PROJECT_DIR$/application/views/document/index.php" />
+        <option value="$PROJECT_DIR$/public/js/album.js" />
+        <option value="$PROJECT_DIR$/application/models/Books.php" />
+        <option value="$PROJECT_DIR$/application/views/books/learn.php" />
+        <option value="$PROJECT_DIR$/application/views/books/worship.php" />
+        <option value="$PROJECT_DIR$/application/views/books/studies.php" />
+        <option value="$PROJECT_DIR$/application/controllers/booksController.php" />
+        <option value="$PROJECT_DIR$/application/views/books/lifesaints.php" />
+        <option value="$PROJECT_DIR$/application/views/books/writer.php" />
+        <option value="$PROJECT_DIR$/application/views/all/index.php" />
+        <option value="$PROJECT_DIR$/public/js/main.js" />
+        <option value="$PROJECT_DIR$/data/routes.php" />
+        <option value="$PROJECT_DIR$/application/views/all/alms.php" />
+        <option value="$PROJECT_DIR$/application/views/all/almsitem.php" />
+        <option value="$PROJECT_DIR$/application/views/main/page.php" />
+        <option value="$PROJECT_DIR$/application/controllers/mainController.php" />
+        <option value="$PROJECT_DIR$/data/config.php" />
+        <option value="$PROJECT_DIR$/public/css/main.css" />
+        <option value="$PROJECT_DIR$/application/views/main/index.php" />
+        <option value="$PROJECT_DIR$/public/css/news_one.css" />
+        <option value="$PROJECT_DIR$/application/controllers/allController.php" />
+        <option value="$PROJECT_DIR$/application/models/All.php" />
+        <option value="$PROJECT_DIR$/public/js/news_one.js" />
+        <option value="$PROJECT_DIR$/application/views/all/forumitem.php" />
+        <option value="$PROJECT_DIR$/application/views/all/forum.php" />
+        <option value="$PROJECT_DIR$/application/views/store/brain.php" />
+        <option value="$PROJECT_DIR$/application/views/store/candles.php" />
+        <option value="$PROJECT_DIR$/application/views/store/clothes.php" />
+        <option value="$PROJECT_DIR$/application/views/store/incense.php" />
+        <option value="$PROJECT_DIR$/application/views/store/literature.php" />
+        <option value="$PROJECT_DIR$/application/views/store/setrites.php" />
+        <option value="$PROJECT_DIR$/application/views/store/trainers.php" />
+        <option value="$PROJECT_DIR$/application/views/store/vestments.php" />
+        <option value="$PROJECT_DIR$/application/views/news/archdiocese.php" />
+        <option value="$PROJECT_DIR$/application/models/News.php" />
+        <option value="$PROJECT_DIR$/application/controllers/newsController.php" />
+        <option value="$PROJECT_DIR$/application/views/news/culture.php" />
+        <option value="$PROJECT_DIR$/application/views/news/events.php" />
+        <option value="$PROJECT_DIR$/application/views/news/parishes.php" />
+        <option value="$PROJECT_DIR$/application/views/store/index.php" />
+        <option value="$PROJECT_DIR$/application/controllers/storeController.php" />
+        <option value="$PROJECT_DIR$/application/views/store/lithium.php" />
+        <option value="$PROJECT_DIR$/modules/header_menu/view/main/view.php" />
+        <option value="$PROJECT_DIR$/data/languages/ru.php" />
+        <option value="$PROJECT_DIR$/public/css/store.css" />
+        <option value="$PROJECT_DIR$/application/views/store/addproduct.php" />
+        <option value="$PROJECT_DIR$/public/js/store.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-100" />
+    <option name="y" value="3" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="starover.local.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="starover.local.com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="starover.local.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="starover.local.com" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="starover.local.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="starover.local.com" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="starover.local.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="starover.local.com" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="starover.local.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="starover.local.com" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="starover.local.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="starover.local.com" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="galleries" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="starover.local.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="starover.local.com" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="starover.local.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="starover.local.com" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="languages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="starover.local.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="starover.local.com" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="starover.local.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="starover.local.com" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="header_menu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="starover.local.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="starover.local.com" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="header_menu" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="starover.local.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="starover.local.com" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="header_menu" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="starover.local.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="starover.local.com" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="starover.local.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="starover.local.com" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="starover.local.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="starover.local.com" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\kidesotre.ua\application\views\main" />
+      <recent name="C:\OSPanel\domains\kidesotre.ua\application\views\product" />
+      <recent name="C:\OSPanel\domains\kidesotre.ua\application\views\layout\templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8ffd185-b71e-47cf-bba6-01b7b86230ee" name="Default Changelist" comment="" />
+      <created>1544484423218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544484423218</updated>
+      <workItem from="1544484425430" duration="6691000" />
+      <workItem from="1544968755693" duration="624000" />
+      <workItem from="1545332833618" duration="29690000" />
+      <workItem from="1545373201846" duration="7396000" />
+      <workItem from="1545594395067" duration="10170000" />
+      <workItem from="1546197054767" duration="8207000" />
+      <workItem from="1546511427871" duration="32751000" />
+      <workItem from="1546597130167" duration="16232000" />
+      <workItem from="1546686185097" duration="42000" />
+      <workItem from="1546687121042" duration="18318000" />
+      <workItem from="1547529332662" duration="4764000" />
+      <workItem from="1547570276673" duration="2898000" />
+      <workItem from="1547836441327" duration="4180000" />
+      <workItem from="1547852880268" duration="4386000" />
+      <workItem from="1547907610464" duration="11479000" />
+      <workItem from="1548495161384" duration="6111000" />
+      <workItem from="1548516640806" duration="7039000" />
+      <workItem from="1548595569406" duration="15001000" />
+      <workItem from="1548883212670" duration="12787000" />
+      <workItem from="1548957342469" duration="1302000" />
+      <workItem from="1549016881950" duration="29000" />
+      <workItem from="1549461634635" duration="2277000" />
+      <workItem from="1549466570484" duration="52000" />
+      <workItem from="1549548542260" duration="597000" />
+      <workItem from="1549628920736" duration="13998000" />
+      <workItem from="1550209237339" duration="594000" />
+      <workItem from="1550306316433" duration="9018000" />
+      <workItem from="1550326597320" duration="4488000" />
+      <workItem from="1550332293696" duration="3770000" />
+      <workItem from="1550400092659" duration="643000" />
+      <workItem from="1550913275541" duration="606000" />
+      <workItem from="1551213269681" duration="15120000" />
+      <workItem from="1551252214996" duration="2690000" />
+      <workItem from="1551388846333" duration="17672000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="271622000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.24205749" />
+      <window_info id="Structure" order="1" sideWeight="0.5008183" side_tool="true" weight="0.32753405" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.3289689" />
+      <window_info anchor="bottom" id="Database Console" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="4" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Favorites" order="8" weight="0.33878887" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.2322239" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Pravki" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pravki" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/application/views/books/learn.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="59" column="5" lean-forward="true" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/booksController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="83" column="9" lean-forward="true" selection-start-line="64" selection-start-column="8" selection-end-line="83" selection-end-column="9" />
+          <folding>
+            <element signature="e#125#154#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1921">
+          <caret line="117" column="27" selection-start-line="117" selection-start-column="27" selection-end-line="117" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/photos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2040">
+          <caret line="120" column="21" selection-start-line="120" selection-start-column="15" selection-end-line="120" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/all/almsitem.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="54" column="43" selection-start-line="54" selection-start-column="43" selection-end-line="54" selection-end-column="43" />
+          <folding>
+            <element signature="e#1436#1474#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/main/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="68" column="99" selection-start-line="68" selection-start-column="99" selection-end-line="68" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="38" column="42" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="867" column="38" selection-start-line="867" selection-start-column="38" selection-end-line="867" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/documentController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="84" column="9" lean-forward="true" selection-start-line="81" selection-start-column="8" selection-end-line="84" selection-end-column="9" />
+          <folding>
+            <element signature="e#125#157#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/archdiocese/parishes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="62" column="6" lean-forward="true" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/archdiocese/item.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="56" column="18" lean-forward="true" selection-start-line="42" selection-start-column="12" selection-end-line="56" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/news_one.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="153" column="51" lean-forward="true" selection-start-line="153" selection-start-column="51" selection-end-line="153" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/store/category.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/all/alms.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="15" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="18" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/all/forum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/all/forumitem.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#3;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/All.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="108" column="47" selection-start-line="108" selection-start-column="47" selection-end-line="108" selection-end-column="47" />
+          <folding>
+            <element signature="e#120#132#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/allController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="116" column="34" selection-start-line="116" selection-start-column="34" selection-end-line="116" selection-end-column="34" />
+          <folding>
+            <element signature="e#125#152#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/store/candles.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/store/clothes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="26" column="46" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/store/incense.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/store/literature.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/store/setrites.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/store/trainers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/store/brain.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="26" column="41" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/store/vestments.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/main/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="76" column="14" lean-forward="true" selection-start-line="76" selection-start-column="14" selection-end-line="76" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/news/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="96" column="22" lean-forward="true" selection-start-line="96" selection-start-column="22" selection-end-line="96" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/mainController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="45" column="31" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/News.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="65" column="33" lean-forward="true" selection-start-line="65" selection-start-column="33" selection-end-line="65" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/galleriesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="30" column="48" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="30" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/news/archdiocese.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="77" column="14" lean-forward="true" selection-start-line="64" selection-start-column="7" selection-end-line="77" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/news/culture.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="75" column="14" lean-forward="true" selection-end-line="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/news/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/news/events.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="75" column="14" lean-forward="true" selection-start-line="62" selection-start-column="8" selection-end-line="75" selection-end-column="14" />
+          <folding>
+            <element signature="e#6#87#0#PHP" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#form#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#form#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/news/parishes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="76" column="10" lean-forward="true" selection-start-line="76" selection-start-column="10" selection-end-line="76" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/newsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-648">
+          <caret line="70" column="37" selection-start-line="70" selection-start-column="37" selection-end-line="70" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/store/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="18" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/storeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="62" column="10" selection-start-line="62" selection-start-column="10" selection-end-line="62" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/store/lithium.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="38" column="26" lean-forward="true" selection-start-line="36" selection-start-column="15" selection-end-line="38" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/header_menu/view/main/view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="135" column="30" selection-start-line="135" selection-start-column="30" selection-end-line="135" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/languages/ru.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="111" column="62" selection-start-line="111" selection-start-column="62" selection-end-line="111" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/store.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/galleries/photo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-157" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/store/addproduct.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="93" column="76" selection-start-line="93" selection-start-column="76" selection-end-line="93" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/album.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-933">
+          <caret line="67" column="46" selection-start-line="67" selection-start-column="46" selection-end-line="67" selection-end-column="46" />
+          <folding>
+            <element signature="e#4#10#1" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/galleries/album.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-36">
+          <caret line="37" column="98" lean-forward="true" selection-start-line="37" selection-start-column="98" selection-end-line="37" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/news_one.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="328" column="1" lean-forward="true" selection-start-line="328" selection-start-column="1" selection-end-line="328" selection-end-column="1" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#!!top" expanded="true" />
+            <marker date="1551253560092" expanded="true" signature="13829:13905" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/store.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
