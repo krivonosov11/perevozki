@@ -5,21 +5,21 @@ class Config
 
     // config local DateBase
      public static $host = '127.0.0.1';
-     public static $dbname = 'starov00_db';
+     public static $dbname = 'gt_db';
      public static $user = 'root';
      public static $password = '';
 
     // config production DataBae
 //   public static $host = '127.0.0.1';
-//   public static $dbname = 'starov00_db';
+//   public static $dbname = 'gt_db';
 //   public static $user = 'starov00_db';
 //   public static $password = 'e7pU2HfZ';
 
     // config local site
-     public static $url = 'http://googs-trans.local';
+     public static $url = 'http://local.cargo-trance';
 
     // config production site
-//   public static $url = 'https://googs-trans.com';
+//   public static $url = 'https://cargo-trance.com';
 
     public static $debugQueriesDB = false;
     public static $errorReporting = -1;

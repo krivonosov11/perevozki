@@ -1,80 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8ffd185-b71e-47cf-bba6-01b7b86230ee" name="Default Changelist" comment="Pravki">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+    <list default="true" id="7fec3f60-e736-4124-907a-20daf669fe01" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/70074de8-ff70-41d2-9576-f33d5d086c70.corrupted.20190316-053704.reason.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/70074de8-ff70-41d2-9576-f33d5d086c70.corrupted.20190316-053704.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/70074de8-ff70-41d2-9576-f33d5d086c70.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kidesotre.ua.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/ConnectDB.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/sessions/files/sess_0f2glflepdnf2i682i9agjjehanskkh6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/sessions/files/sess_0us4h3fdrp389mkf9kideh1l8gunqh0e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/sessions/files/sess_1gs60elj9el25hen63r8emin2534rhuh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/sessions/files/sess_1tcmblrms4toei0oqtfosseb197mv4un" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/sessions/files/sess_2hrlbtr9kvgocru7uj1j531vmm8n2556" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/sessions/files/sess_3jc0d71k5p79nag4tr1is0eliirhn5qr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/sessions/files/sess_9lb8t193kvut89vo65ej2ui50nbjoq4h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/sessions/files/sess_hjba5uri3jkbaqafpg35l2g6fruh1tgj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/sessions/files/sess_k6jiu187cp9nurru3o7o3spq5ar2d1ff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/sessions/files/sess_kg1003tq00nsti0kvj6edgbjr7847jju" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/sessions/files/sess_nrb5en01th9v97k1tg39p518gnoqt6on" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/sessions/files/sess_rv8q68cq4pcmkms9v5d4g6ig873i0ghp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/sessions/files/sess_v0m55277ktl6cbt5cpk37qu31hqgsfbd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/sessions/files/sess_v7mhrivq8c84tf61i67p5marklhgljjk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/sessions/files/sess_vp0jq2eg357f2lben7snf5db92i57gq8" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/data/config.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/document.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/list_group.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/news_one.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/photos.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/store.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/font/irmologiy/BLAGO__.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/font/irmologiy/CeraCYBold.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/font/irmologiy/CeraCYMedium.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/font/irmologiy/CeraCYRegularItalic.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/font/irmologiy/IrmCIEUcs.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/font/irmologiy/IrmCKUcs.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/font/irmologiy/IrmCUcs.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/font/irmologiy/IrmIEUcs.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/font/irmologiy/IrmKUcs.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/font/irmologiy/IrmSoCIEUcs.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/font/irmologiy/IrmSoCKUcs.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/font/irmologiy/IrmSoCUcs.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/font/irmologiy/IrmSoIEUcs.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/font/irmologiy/IrmSoKUcs.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/font/irmologiy/IrmSoUcs.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/font/irmologiy/IrmUcs.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/font/irmologiy/Palatino.ttc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/font/irmologiy/PalatinoBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/font/lato/Lato-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/font/lato/Lato-Italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/font/lato/Lato-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/font/roboto/Roboto-Bold.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/font/roboto/Roboto-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/font/roboto/Roboto-Bold.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/font/roboto/Roboto-Bold.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/font/roboto/Roboto-Light.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/font/roboto/Roboto-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/font/roboto/Roboto-Light.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/font/roboto/Roboto-Light.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/font/roboto/Roboto-Medium.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/font/roboto/Roboto-Medium.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/font/roboto/Roboto-Medium.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/font/roboto/Roboto-Medium.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/font/roboto/Roboto-Regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/font/roboto/Roboto-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/font/roboto/Roboto-Regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/font/roboto/Roboto-Regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/font/roboto/Roboto-Thin.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/font/roboto/Roboto-Thin.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/font/roboto/Roboto-Thin.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/font/roboto/Roboto-Thin.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/'.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/1481562531.5922nikodim_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/1537801364.5312torjestva_v_vilkovo_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/ContentImageHandler.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/def_file.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/depositphotos_43674169-stock-photo-handmade-paper-sheet-background-or.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/list_back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/liststyle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/logo-var-main.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/mymaps-desktop-16x9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/paper-lettra-PearlWhite.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/pdf.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/photo_product.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/preloader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/up-arrow-png-12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/user_photo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/word.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/album.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/news_one.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/store.js" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,42 +35,12 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="my_staroobr@localhost" type="feb32156:DbDataSourceImpl" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="my_staroobr@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="my_staroobr@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="my_staroobr: schema" type="76f4a085:MysqlImplModel$Schema" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="526795164">
+    <session id="-1402733323">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
-          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
@@ -133,97 +56,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="php" value="5" />
+          <entry key="php" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PHP" value="5" />
+          <entry key="PHP" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/data/config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+            <state relative-caret-position="306">
+              <caret line="18" column="52" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="52" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="CSS File" />
-        <option value="JavaScript File" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>pub</find>
-      <find>WWW</find>
-      <find>documents</find>
-      <find>getAllDocumentByGroup</find>
-      <find>getAllDocumentByType</find>
-      <find>COMMU</find>
-      <find>counc</find>
-      <find>INTERVI</find>
-      <find>performan</find>
-      <find>COMMUNITY_DOCUMENTS</find>
-      <find>document</find>
-      <find>WRITER_OF_STAROOBR</find>
-      <find>previewFile</find>
-      <find>Общее</find>
-      <find>NOV</find>
-      <find>container</find>
-      <find>$news</find>
-      <find>$par</find>
-      <find>.send_comment</find>
-      <find>senCommentByid</find>
-      <find>getCommnetsByIdNews</find>
-      <find>&gt;&lt;p&gt;</find>
-      <find>&lt;p&gt;</find>
-      <find>&lt;/p&gt;</find>
-      <find>$j = \BRequest::getInt('list', 1);</find>
-      <find>archdiocese</find>
-      <find>culture</find>
-      <find>events</find>
-      <find>&lt;input type=&quot;file&quot;&gt;</find>
-      <find>$dsn</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>div</replace>
-      <replace>\Config::$v_cache_styles_and_js</replace>
-      <replace>main</replace>
-      <replace>font</replace>
-      <replace>font/irmologiy</replace>
-      <replace>documents</replace>
-      <replace>.add_post</replace>
-      <replace>гривневые</replace>
-      <replace>Украина</replace>
-      <replace>Украины</replace>
-      <replace>Винница</replace>
-      <replace>Виннице</replace>
-      <replace>Архиепископ</replace>
-      <replace>$js = 'var block = &quot;' . $this-&gt;route['action'].'&quot;';</replace>
-      <replace>document</replace>
-      <replace>getAllDocumentByGroup</replace>
-      <replace>AUTHOR_PAGE</replace>
-      <replace>books</replace>
-      <replace>$alms</replace>
-      <replace>$thems</replace>
-      <replace>$j = $this-&gt;j</replace>
-      <replace>culture</replace>
-      <replace>events</replace>
-      <replace>parishes</replace>
-      <replace>&lt;input type=&quot;file&quot; name=&quot;photos[]&quot; multiple&gt;</replace>
-    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -231,56 +85,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/application/views/document/councils.php" />
-        <option value="$PROJECT_DIR$/application/views/document/performances.php" />
-        <option value="$PROJECT_DIR$/application/views/document/interview.php" />
-        <option value="$PROJECT_DIR$/application/views/document/resolutions.php" />
-        <option value="$PROJECT_DIR$/application/views/document/index.php" />
-        <option value="$PROJECT_DIR$/public/js/album.js" />
-        <option value="$PROJECT_DIR$/application/models/Books.php" />
-        <option value="$PROJECT_DIR$/application/views/books/learn.php" />
-        <option value="$PROJECT_DIR$/application/views/books/worship.php" />
-        <option value="$PROJECT_DIR$/application/views/books/studies.php" />
-        <option value="$PROJECT_DIR$/application/controllers/booksController.php" />
-        <option value="$PROJECT_DIR$/application/views/books/lifesaints.php" />
-        <option value="$PROJECT_DIR$/application/views/books/writer.php" />
-        <option value="$PROJECT_DIR$/application/views/all/index.php" />
-        <option value="$PROJECT_DIR$/public/js/main.js" />
-        <option value="$PROJECT_DIR$/data/routes.php" />
-        <option value="$PROJECT_DIR$/application/views/all/alms.php" />
-        <option value="$PROJECT_DIR$/application/views/all/almsitem.php" />
-        <option value="$PROJECT_DIR$/application/views/main/page.php" />
-        <option value="$PROJECT_DIR$/application/controllers/mainController.php" />
-        <option value="$PROJECT_DIR$/public/css/main.css" />
-        <option value="$PROJECT_DIR$/application/views/main/index.php" />
-        <option value="$PROJECT_DIR$/public/css/news_one.css" />
-        <option value="$PROJECT_DIR$/application/controllers/allController.php" />
-        <option value="$PROJECT_DIR$/application/models/All.php" />
-        <option value="$PROJECT_DIR$/public/js/news_one.js" />
-        <option value="$PROJECT_DIR$/application/views/all/forumitem.php" />
-        <option value="$PROJECT_DIR$/application/views/all/forum.php" />
-        <option value="$PROJECT_DIR$/application/views/store/brain.php" />
-        <option value="$PROJECT_DIR$/application/views/store/candles.php" />
-        <option value="$PROJECT_DIR$/application/views/store/clothes.php" />
-        <option value="$PROJECT_DIR$/application/views/store/incense.php" />
-        <option value="$PROJECT_DIR$/application/views/store/literature.php" />
-        <option value="$PROJECT_DIR$/application/views/store/setrites.php" />
-        <option value="$PROJECT_DIR$/application/views/store/trainers.php" />
-        <option value="$PROJECT_DIR$/application/views/store/vestments.php" />
-        <option value="$PROJECT_DIR$/application/views/news/archdiocese.php" />
-        <option value="$PROJECT_DIR$/application/models/News.php" />
-        <option value="$PROJECT_DIR$/application/controllers/newsController.php" />
-        <option value="$PROJECT_DIR$/application/views/news/culture.php" />
-        <option value="$PROJECT_DIR$/application/views/news/events.php" />
-        <option value="$PROJECT_DIR$/application/views/news/parishes.php" />
-        <option value="$PROJECT_DIR$/application/views/store/index.php" />
-        <option value="$PROJECT_DIR$/application/controllers/storeController.php" />
-        <option value="$PROJECT_DIR$/application/views/store/lithium.php" />
-        <option value="$PROJECT_DIR$/modules/header_menu/view/main/view.php" />
-        <option value="$PROJECT_DIR$/data/languages/ru.php" />
-        <option value="$PROJECT_DIR$/public/css/store.css" />
-        <option value="$PROJECT_DIR$/application/views/store/addproduct.php" />
-        <option value="$PROJECT_DIR$/public/js/store.js" />
         <option value="$PROJECT_DIR$/data/config.php" />
       </list>
     </option>
@@ -297,66 +101,35 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="googs-trans.local" type="b2602c69:ProjectViewProjectNode" />
-              <item name="googs-trans.local" type="462c0819:PsiDirectoryNode" />
+              <item name="local.cargo-trance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="local.cargo-trance" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="googs-trans.local" type="b2602c69:ProjectViewProjectNode" />
-              <item name="googs-trans.local" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="googs-trans.local" type="b2602c69:ProjectViewProjectNode" />
-              <item name="googs-trans.local" type="462c0819:PsiDirectoryNode" />
+              <item name="local.cargo-trance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="local.cargo-trance" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="googs-trans.local" type="b2602c69:ProjectViewProjectNode" />
-              <item name="googs-trans.local" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="googs-trans.local" type="b2602c69:ProjectViewProjectNode" />
-              <item name="googs-trans.local" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\OSPanel\domains\kidesotre.ua\application\views\main" />
-      <recent name="C:\OSPanel\domains\kidesotre.ua\application\views\product" />
-      <recent name="C:\OSPanel\domains\kidesotre.ua\application\views\layout\templates" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -375,76 +148,40 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c8ffd185-b71e-47cf-bba6-01b7b86230ee" name="Default Changelist" comment="" />
-      <created>1544484423218</created>
+      <changelist id="7fec3f60-e736-4124-907a-20daf669fe01" name="Default Changelist" comment="" />
+      <created>1552753316671</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1544484423218</updated>
-      <workItem from="1544484425430" duration="6691000" />
-      <workItem from="1544968755693" duration="624000" />
-      <workItem from="1545332833618" duration="29690000" />
-      <workItem from="1545373201846" duration="7396000" />
-      <workItem from="1545594395067" duration="10170000" />
-      <workItem from="1546197054767" duration="8207000" />
-      <workItem from="1546511427871" duration="32751000" />
-      <workItem from="1546597130167" duration="16232000" />
-      <workItem from="1546686185097" duration="42000" />
-      <workItem from="1546687121042" duration="18318000" />
-      <workItem from="1547529332662" duration="4764000" />
-      <workItem from="1547570276673" duration="2898000" />
-      <workItem from="1547836441327" duration="4180000" />
-      <workItem from="1547852880268" duration="4386000" />
-      <workItem from="1547907610464" duration="11479000" />
-      <workItem from="1548495161384" duration="6111000" />
-      <workItem from="1548516640806" duration="7039000" />
-      <workItem from="1548595569406" duration="15001000" />
-      <workItem from="1548883212670" duration="12787000" />
-      <workItem from="1548957342469" duration="1302000" />
-      <workItem from="1549016881950" duration="29000" />
-      <workItem from="1549461634635" duration="2277000" />
-      <workItem from="1549466570484" duration="52000" />
-      <workItem from="1549548542260" duration="597000" />
-      <workItem from="1549628920736" duration="13998000" />
-      <workItem from="1550209237339" duration="594000" />
-      <workItem from="1550306316433" duration="9018000" />
-      <workItem from="1550326597320" duration="4488000" />
-      <workItem from="1550332293696" duration="3770000" />
-      <workItem from="1550400092659" duration="643000" />
-      <workItem from="1550913275541" duration="606000" />
-      <workItem from="1551213269681" duration="15120000" />
-      <workItem from="1551252214996" duration="2690000" />
-      <workItem from="1551388846333" duration="17672000" />
-      <workItem from="1552750626682" duration="542000" />
+      <updated>1552753316671</updated>
+      <workItem from="1552753324102" duration="189000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="272164000" />
+    <option name="totallyTimeSpent" value="189000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.24466951" />
-      <window_info id="Structure" order="1" sideWeight="0.5008183" side_tool="true" weight="0.32753405" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.3289689" />
-      <window_info anchor="bottom" id="Database Console" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" id="Message" order="2" />
-      <window_info anchor="bottom" id="Find" order="3" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="4" />
-      <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Favorites" order="8" weight="0.33878887" />
-      <window_info anchor="bottom" id="TODO" order="9" />
-      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" weight="0.3289689" />
-      <window_info anchor="bottom" id="Terminal" order="13" />
-      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" weight="0.2322239" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -453,149 +190,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Pravki" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pravki" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/application/views/books/learn.php" />
-    <entry file="file://$PROJECT_DIR$/application/controllers/booksController.php" />
-    <entry file="file://$PROJECT_DIR$/core/User.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1921">
-          <caret line="117" column="27" selection-start-line="117" selection-start-column="27" selection-end-line="117" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/photos.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2040">
-          <caret line="120" column="21" selection-start-line="120" selection-start-column="15" selection-end-line="120" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/all/almsitem.php" />
-    <entry file="file://$PROJECT_DIR$/data/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/main/page.php" />
-    <entry file="file://$PROJECT_DIR$/public/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="867" column="38" selection-start-line="867" selection-start-column="38" selection-end-line="867" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/controllers/documentController.php" />
-    <entry file="file://$PROJECT_DIR$/application/views/archdiocese/parishes.php" />
-    <entry file="file://$PROJECT_DIR$/application/views/archdiocese/item.php" />
-    <entry file="file://$PROJECT_DIR$/public/css/news_one.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="153" column="51" lean-forward="true" selection-start-line="153" selection-start-column="51" selection-end-line="153" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/store/category.php" />
-    <entry file="file://$PROJECT_DIR$/application/views/all/alms.php" />
-    <entry file="file://$PROJECT_DIR$/application/views/all/forum.php" />
-    <entry file="file://$PROJECT_DIR$/application/views/all/forumitem.php" />
-    <entry file="file://$PROJECT_DIR$/application/models/All.php" />
-    <entry file="file://$PROJECT_DIR$/application/controllers/allController.php" />
-    <entry file="file://$PROJECT_DIR$/application/views/store/candles.php" />
-    <entry file="file://$PROJECT_DIR$/application/views/store/clothes.php" />
-    <entry file="file://$PROJECT_DIR$/application/views/store/incense.php" />
-    <entry file="file://$PROJECT_DIR$/application/views/store/literature.php" />
-    <entry file="file://$PROJECT_DIR$/application/views/store/setrites.php" />
-    <entry file="file://$PROJECT_DIR$/application/views/store/trainers.php" />
-    <entry file="file://$PROJECT_DIR$/application/views/store/brain.php" />
-    <entry file="file://$PROJECT_DIR$/application/views/store/vestments.php" />
-    <entry file="file://$PROJECT_DIR$/application/views/main/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
-          <caret line="76" column="14" lean-forward="true" selection-start-line="76" selection-start-column="14" selection-end-line="76" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/news/main.php" />
-    <entry file="file://$PROJECT_DIR$/application/controllers/mainController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="45" column="31" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/News.php" />
-    <entry file="file://$PROJECT_DIR$/application/controllers/galleriesController.php" />
-    <entry file="file://$PROJECT_DIR$/application/views/news/archdiocese.php" />
-    <entry file="file://$PROJECT_DIR$/application/views/news/culture.php" />
-    <entry file="file://$PROJECT_DIR$/application/views/news/index.php" />
-    <entry file="file://$PROJECT_DIR$/application/views/news/events.php" />
-    <entry file="file://$PROJECT_DIR$/application/views/news/parishes.php" />
-    <entry file="file://$PROJECT_DIR$/application/controllers/newsController.php" />
-    <entry file="file://$PROJECT_DIR$/application/views/store/index.php" />
-    <entry file="file://$PROJECT_DIR$/application/controllers/storeController.php" />
-    <entry file="file://$PROJECT_DIR$/application/views/store/lithium.php" />
-    <entry file="file://$PROJECT_DIR$/modules/header_menu/view/main/view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="135" column="30" selection-start-line="135" selection-start-column="30" selection-end-line="135" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/languages/ru.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="111" column="62" selection-start-line="111" selection-start-column="62" selection-end-line="111" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/galleries/photo.php" />
-    <entry file="file://$PROJECT_DIR$/application/views/store/addproduct.php" />
-    <entry file="file://$PROJECT_DIR$/public/js/album.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-933">
-          <caret line="67" column="46" selection-start-line="67" selection-start-column="46" selection-end-line="67" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/galleries/album.php" />
-    <entry file="file://$PROJECT_DIR$/public/js/news_one.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="328" column="1" lean-forward="true" selection-start-line="328" selection-start-column="1" selection-end-line="328" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/store.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/store.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+        <state relative-caret-position="306">
+          <caret line="18" column="52" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="52" />
         </state>
       </provider>
     </entry>
